@@ -1,2 +1,1 @@
-# CBPhotoEditor
-CB Project
+PhotoEditor
